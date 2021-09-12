@@ -1,4 +1,4 @@
-# not-space-invaders
+# Not Space Invaders
 This is NOT Space Invaders.  Little game written in C for feeling out the language.
 
 # Build
